@@ -1,5 +1,5 @@
 # crm-spring-rest
-Customer Relationship management using Spring Boot for Java Language.
+Customer Relationship management using Spring MVC Framework for Java Language.
 
 
 
